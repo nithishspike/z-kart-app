@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/nithish-tt0489/Downloads/postgresql-42.7.4.jar"/>
+	<classpathentry kind="lib" path="/Users/nithish-tt0489/Downloads/jedis-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nithish-tt0489/Downloads/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/nithish-tt0489/Downloads/jboss-javassist-javassist-3cf49c0/javassist.jar"/>
+	<classpathentry kind="lib" path="/Users/nithish-tt0489/Downloads/javax.json-api-1.1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/nithish-tt0489/Downloads/javax.json-1.1.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
